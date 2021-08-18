@@ -1,3 +1,5 @@
+ :star:  :star:  :star:  :star:  :star: :star:  :star:  :star: 
+
 # picture-search
 
 #### 介绍
@@ -5,6 +7,13 @@
 
 #### 软件架构
 基于 uni-app 项目默认模板进行扩展架构，其中使用到的组件有 uni-ui ，时间戳组件
+
+#### 项目演示
+- QQ交流：1976457550
+
+##### 项目截图
+
+![首页](img-folder/images/首页.jpg)
 
 #### 安装教程
 

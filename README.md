@@ -13,12 +13,23 @@
 
 ##### 项目截图
 
-![首页](img-folder/images/首页.jpg)
+![首页](images/首页.jpg)
+![推荐](images/推荐.jpg)
+![分类](images/分类.jpg)
+![最新](images/最新.jpg)
+![热门](images/热门.jpg)
+![最新模块](images/最新1.jpg)
+![专辑](images/专辑.jpg)
+![图片详情](images/图片详情.jpg)
+![视频](images/视频.jpg)
+![视频详情](images/视频详情.jpg)
+![我的](images/我的.jpg)
+![注册](images/注册.jpg)
 
 #### 安装教程
 
-1.  下载代码
-2.  将代码解压后拖拽至HBuilderX 编辑器中
+1.  克隆代码到本地
+2.  将代码拖拽至HBuilderX 编辑器中
 3.  安装依赖插件 uni-ui 、SOtime.js
 
 #### 使用说明
@@ -37,10 +48,7 @@
 
 #### 参与贡献
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+感谢后端小伙伴的大力支持！！！
 
 
 #### 说明
